@@ -1,0 +1,183 @@
+
+.navbar {
+    background-image: linear-gradient(to right, red, blue);
+}
+
+/* ========================================================================================================================= */
+
+
+                            /* STYLING OF IMAGE ON HOMEPAGE */
+
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
+/* .container {
+    position: relative;
+    width: 50%;
+}
+  
+.image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.container:hover .image {
+    opacity: 0.3;
+}
+
+.container:hover .middle {
+    opacity: 1;
+}
+
+.text {
+    background-color: burlywood;
+    color:BLACK;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+ */
+
+/* ========================================================================================================================= */
+
+
+.d-block {
+    width:50%;
+}
+
+/* =================================================================================================================== */
+
+/* TIME TABLE STYLING */
+
+
+/* .cs213 {
+    background-color: mediumpurple;
+    color: black;
+}
+
+.cs207 {
+    background-color: dodgerblue;
+    color:black;
+}
+
+.ee101 {
+    background-color: bisque;
+    color:black;
+
+}
+
+.mg401 {
+    background-color: aquamarine;
+    color:black;
+
+}
+
+.cs215 {
+    background-color: darkcyan;
+    color: black;
+}
+
+.cs251 {
+    background-color: rgb(233, 110, 137);
+    color:black;
+
+}
+
+.cs293 {
+    background-color: deepskyblue;
+    color:black;
+
+}
+
+.empty {
+    background-color: gray;
+}
+ */
+
+
+
+/* table, th, td {
+    
+    padding-top: 10px;   */
+    /* https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_cellpadding2 */
+    /* padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    
+    border: 1px solid rgb(241, 235, 235);
+    border-collapse: collapse;
+    
+} */
+
+/* tr:hover {background-color: #ec0a15;}   https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_hover */
+
+
+/* =================================================================================================================== */
+
+
+.c {
+    background-image:linear-gradient(135deg, rgb(22, 16, 58),rgb(19, 31, 68), rgb(16, 27, 90))
+}
+
+
+/* body {
+    color:black;
+    background-image: linear-gradient(to right, rgb(87, 87, 145), rgb(59, 195, 230));
+} */
+
+
+.jumbotron{
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size : 100%;
+    color: white;
+}
+
+.jumbo-home{
+    background-image: url(home2.jpg)
+}
+
+.jumbo-prj{
+    background-image: url(prj3.jpg);
+}
+
+.jumbo-hb{
+    background-image: url(hb3.jpg);
+}
+
+.jumbo-ed{
+    background-image: url(ed1.jpg);
+}
+
+.jumbo-tt{
+    background-image: url(tt1.jpg);
+}
+
+.jumbo-am{
+    background-image: url(am1.jpg);
+}
+
+
+.jumbo-cm{
+    background-image: url(cm1.jpg);
+}
+
+input.hobby {
+    width : 20px;
+    height: 20px;
+}
+
+
